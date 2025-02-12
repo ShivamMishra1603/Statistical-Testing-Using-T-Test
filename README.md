@@ -54,5 +54,3 @@ This project investigates the statistical significance of differences in user pe
 - **Between-subjects test:** No significant difference.  
 - **Within-subjects test:** Tool Palette is significantly slower than Flow Menu.  
 - The study highlights how **statistical methods** help in understanding **HCI design choices** for improving user experience.
-
-## Repository Structure
