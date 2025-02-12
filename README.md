@@ -19,6 +19,9 @@ This project investigates the statistical significance of differences in user pe
 ## Results
 ### **Unpaired t-test (Between-Subjects)**
 - **p-value = 0.186** (> 0.05) ⟶ No significant difference  
+- **t-statistic** =  4.4411 
+- **Degrees of freedom** = 9
+- 95% Confidence Interval for the difference in means: [-0.103, 0.481] 
 - **Mean completion time:**  
   - Tool Palette: **2.969s**  
   - Flow Menu: **2.780s**  
@@ -33,6 +36,9 @@ This project investigates the statistical significance of differences in user pe
 
 ### **Paired t-test (Within-Subjects)**
 - **p-value = 0.001621** (< 0.05) ⟶ Significant difference  
+- **t-statistic** = 1.3951 
+- **Degrees of freedom** = 13.192
+- 95% Confidence Interval for the mean difference: [0.174, 0.534]
 - **Mean difference:** **0.354s** (Tool Palette is slower)  
 - **Inference:**  
   Users took significantly longer using **Tool Palette** compared to **Flow Menu**, indicating that menu type influences task performance.
